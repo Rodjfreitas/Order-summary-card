@@ -16,6 +16,13 @@
   border: 1px solid black;
 }
 
+header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 #card img{
   width: 100%;
   object-fit: cover;
@@ -36,9 +43,34 @@ p{
   color: hsl(224, 23%, 55%);
 }
 
-#card p{
+header p{
+  text-align: center;
   width: 250px;
   color: hsl(224, 23%, 55%);
+}
+
+.price{
+  width: 100%;
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  padding: 0 30px;
+}
+
+.price-text{
+  margin-left: -30px;
+}
+
+.price img{
+  max-width: 45px;
+  min-width: 45px;
+}
+
+.price p{
+  width: 10px;
+  border: 1px solid black;
 }
 
 
