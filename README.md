@@ -5,6 +5,7 @@
 
 <p> Este projeto é um desafio extraído do site frontend Mentor. 
 <p> O objetivo principal deste projeto é aplicar conhecimentos adquiridos na criação de uma página de pedido de compra. Gostaria de colocar minhas habilidades de css em prática, e executar a estilização e posicionamentos de objetos.
+<p> Outro objetivo traçado ao desenvolver este projeto, foi utilizar o método "First mobile".
 
 ## Tecnologias
 
@@ -16,6 +17,7 @@
 ## Aprendizados
 
 <p> Através deste projeto, pude me desafiar a exercer todo o meu conhecimento em html e css e colocar em prática todas as habilidades adquiridas ao longo do tempo. Estilizar o cartão no modelo do desafio me mostra que meu domínio sobre as propriedades de css3 tem evoluído, e a compreensão das finalidades das propriedades e quando usá-las tem sido satisfatórias.
+<p> Começar o projeto para telas de dispositivos móveis foi bem interessante. A adaptação para as demais telas fica bem mais simples. Realmente foi um aprendizado importante, que tornarei como prática nos próximos projetos.
 
 ## Captura de Tela
 
