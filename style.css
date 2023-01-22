@@ -6,6 +6,10 @@
   text-align: center;  
 }
 
+body{
+  background-color: hsl(225, 100%, 94%);
+}
+
 #card{
   display: flex;
   flex-direction: column;
@@ -13,6 +17,7 @@
   align-items: center;
   margin: 30px;
   border-radius: 15px;
+  background-color: hsl(225, 100%, 98%);
   border: 1px solid black;
 }
 
@@ -33,7 +38,7 @@ h1{
   font-weight: 900;
   color: hsl(223, 47%, 23%);
   font-size: 20px;
-  margin-top: 20px;
+  margin-top: 30px;
   margin-bottom: 20px;
 }
 
@@ -50,17 +55,17 @@ header p{
 }
 
 .price{
-  width: 100%;
+  width: 90%;
   display: flex;
   margin-top: 20px;
   justify-content: space-between;
   align-items: center;
   border: 1px solid black;
-  padding: 0 30px;
+  border-radius: 10px;
 }
 
 .price-text{
-  margin-left: -30px;
+  width: 130px;
 }
 
 .price img{
@@ -68,9 +73,20 @@ header p{
   min-width: 45px;
 }
 
-.price p{
-  width: 10px;
-  border: 1px solid black;
+.price p{ 
+  text-align: left;
+}
+
+.price h4{
+  text-align: left;
+  color:hsl(223, 47%, 23%);
+  font-weight: 700;
+}
+
+.price a {
+  font-weight: 700;
+  font-size: 13px;
+  color: hsl(245, 75%, 52%);
 }
 
 
